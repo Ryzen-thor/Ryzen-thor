@@ -1,4 +1,4 @@
-### Hi there 👋, I'm a Software Engineer and I love :purple_heart:
+### Hi there 👋, I'm a Software Engineer and I love :purple_heart: Backend Devlopment and Automation
 
 <!--
 **Ryzen-thor/Ryzen-thor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
